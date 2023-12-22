@@ -3,5 +3,5 @@ BLM4531-A KODLU AĞ TABANLI TEKNOLOJİLER VE UYGULAMALARI WEB PROJESİ
 
 
 
-[Uploading gittextzamancizelge.docx…]()
+[gittextzamancizelge.docx…]()
 
